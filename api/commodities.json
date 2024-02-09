@@ -1,0 +1,1382 @@
+[
+    {
+        "commodity_id": "137",
+        "commodity": "Ajwan"
+    },
+    {
+        "commodity_id": "281",
+        "commodity": "Alasande Gram"
+    },
+    {
+        "commodity_id": "325",
+        "commodity": "Almond(Badam)"
+    },
+    {
+        "commodity_id": "166",
+        "commodity": "Alsandikai"
+    },
+    {
+        "commodity_id": "86",
+        "commodity": "Amaranthus"
+    },
+    {
+        "commodity_id": "130",
+        "commodity": "Ambada Seed"
+    },
+    {
+        "commodity_id": "355",
+        "commodity": "Amla(Nelli Kai)"
+    },
+    {
+        "commodity_id": "102",
+        "commodity": "Amphophalus"
+    },
+    {
+        "commodity_id": "209",
+        "commodity": "Antawala"
+    },
+    {
+        "commodity_id": "379",
+        "commodity": "Anthorium"
+    },
+    {
+        "commodity_id": "17",
+        "commodity": "Apple"
+    },
+    {
+        "commodity_id": "326",
+        "commodity": "Apricot(Jardalu/Khumani)"
+    },
+    {
+        "commodity_id": "140",
+        "commodity": "Arecanut(Betelnut/Supari)"
+    },
+    {
+        "commodity_id": "49",
+        "commodity": "Arhar (Tur/Red Gram)(Whole)"
+    },
+    {
+        "commodity_id": "260",
+        "commodity": "Arhar Dal(Tur Dal)"
+    },
+    {
+        "commodity_id": "83",
+        "commodity": "Ashgourd"
+    },
+    {
+        "commodity_id": "232",
+        "commodity": "Astera"
+    },
+    {
+        "commodity_id": "269",
+        "commodity": "Avare Dal"
+    },
+    {
+        "commodity_id": "28",
+        "commodity": "Bajra(Pearl Millet/Cumbu)"
+    },
+    {
+        "commodity_id": "274",
+        "commodity": "Balekai"
+    },
+    {
+        "commodity_id": "204",
+        "commodity": "Bamboo"
+    },
+    {
+        "commodity_id": "19",
+        "commodity": "Banana"
+    },
+    {
+        "commodity_id": "90",
+        "commodity": "Banana - Green"
+    },
+    {
+        "commodity_id": "29",
+        "commodity": "Barley (Jau)"
+    },
+    {
+        "commodity_id": "321",
+        "commodity": "Bay leaf (Tejpatta)"
+    },
+    {
+        "commodity_id": "94",
+        "commodity": "Beans"
+    },
+    {
+        "commodity_id": "262",
+        "commodity": "Beaten Rice"
+    },
+    {
+        "commodity_id": "157",
+        "commodity": "Beetroot"
+    },
+    {
+        "commodity_id": "263",
+        "commodity": "Bengal Gram Dal (Chana Dal)"
+    },
+    {
+        "commodity_id": "6",
+        "commodity": "Bengal Gram(Gram)(Whole)"
+    },
+    {
+        "commodity_id": "357",
+        "commodity": "Ber(Zizyphus/Borehannu)"
+    },
+    {
+        "commodity_id": "143",
+        "commodity": "Betal Leaves"
+    },
+    {
+        "commodity_id": "41",
+        "commodity": "Betelnuts"
+    },
+    {
+        "commodity_id": "85",
+        "commodity": "Bhindi(Ladies Finger)"
+    },
+    {
+        "commodity_id": "113",
+        "commodity": "Big Gram"
+    },
+    {
+        "commodity_id": "51",
+        "commodity": "Binoula"
+    },
+    {
+        "commodity_id": "81",
+        "commodity": "Bitter gourd"
+    },
+    {
+        "commodity_id": "8",
+        "commodity": "Black Gram (Urd Beans)(Whole)"
+    },
+    {
+        "commodity_id": "264",
+        "commodity": "Black Gram Dal (Urd Dal)"
+    },
+    {
+        "commodity_id": "38",
+        "commodity": "Black pepper"
+    },
+    {
+        "commodity_id": "380",
+        "commodity": "BOP"
+    },
+    {
+        "commodity_id": "189",
+        "commodity": "Borehannu"
+    },
+    {
+        "commodity_id": "82",
+        "commodity": "Bottle gourd"
+    },
+    {
+        "commodity_id": "290",
+        "commodity": "Bran"
+    },
+    {
+        "commodity_id": "35",
+        "commodity": "Brinjal"
+    },
+    {
+        "commodity_id": "293",
+        "commodity": "Broken Rice"
+    },
+    {
+        "commodity_id": "320",
+        "commodity": "Broomstick(Flower Broom)"
+    },
+    {
+        "commodity_id": "214",
+        "commodity": "Bull"
+    },
+    {
+        "commodity_id": "284",
+        "commodity": "Bullar"
+    },
+    {
+        "commodity_id": "224",
+        "commodity": "Bunch Beans"
+    },
+    {
+        "commodity_id": "272",
+        "commodity": "Butter"
+    },
+    {
+        "commodity_id": "154",
+        "commodity": "Cabbage"
+    },
+    {
+        "commodity_id": "215",
+        "commodity": "Calf"
+    },
+    {
+        "commodity_id": "354",
+        "commodity": "Camel Hair"
+    },
+    {
+        "commodity_id": "205",
+        "commodity": "Cane"
+    },
+    {
+        "commodity_id": "164",
+        "commodity": "Capsicum"
+    },
+    {
+        "commodity_id": "40",
+        "commodity": "Cardamoms"
+    },
+    {
+        "commodity_id": "375",
+        "commodity": "Carnation"
+    },
+    {
+        "commodity_id": "153",
+        "commodity": "Carrot"
+    },
+    {
+        "commodity_id": "238",
+        "commodity": "Cashew Kernnel"
+    },
+    {
+        "commodity_id": "36",
+        "commodity": "Cashewnuts"
+    },
+    {
+        "commodity_id": "270",
+        "commodity": "Castor Oil"
+    },
+    {
+        "commodity_id": "123",
+        "commodity": "Castor Seed"
+    },
+    {
+        "commodity_id": "34",
+        "commodity": "Cauliflower"
+    },
+    {
+        "commodity_id": "188",
+        "commodity": "Chakotha"
+    },
+    {
+        "commodity_id": "169",
+        "commodity": "Chapparad Avare"
+    },
+    {
+        "commodity_id": "241",
+        "commodity": "Chennangi (Whole)"
+    },
+    {
+        "commodity_id": "295",
+        "commodity": "Chennangi Dal"
+    },
+    {
+        "commodity_id": "328",
+        "commodity": "Cherry"
+    },
+    {
+        "commodity_id": "71",
+        "commodity": "Chikoos(Sapota)"
+    },
+    {
+        "commodity_id": "26",
+        "commodity": "Chili Red"
+    },
+    {
+        "commodity_id": "88",
+        "commodity": "Chilly Capsicum"
+    },
+    {
+        "commodity_id": "167",
+        "commodity": "Chow Chow"
+    },
+    {
+        "commodity_id": "402",
+        "commodity": "Chrysanthemum"
+    },
+    {
+        "commodity_id": "231",
+        "commodity": "Chrysanthemum(Loose)"
+    },
+    {
+        "commodity_id": "316",
+        "commodity": "Cinamon(Dalchini)"
+    },
+    {
+        "commodity_id": "105",
+        "commodity": "Cloves"
+    },
+    {
+        "commodity_id": "80",
+        "commodity": "Cluster beans"
+    },
+    {
+        "commodity_id": "315",
+        "commodity": "Coca"
+    },
+    {
+        "commodity_id": "368",
+        "commodity": "Cock"
+    },
+    {
+        "commodity_id": "104",
+        "commodity": "Cocoa"
+    },
+    {
+        "commodity_id": "138",
+        "commodity": "Coconut"
+    },
+    {
+        "commodity_id": "266",
+        "commodity": "Coconut Oil"
+    },
+    {
+        "commodity_id": "112",
+        "commodity": "Coconut Seed"
+    },
+    {
+        "commodity_id": "45",
+        "commodity": "Coffee"
+    },
+    {
+        "commodity_id": "318",
+        "commodity": "Colacasia"
+    },
+    {
+        "commodity_id": "129",
+        "commodity": "Copra"
+    },
+    {
+        "commodity_id": "43",
+        "commodity": "Coriander(Leaves)"
+    },
+    {
+        "commodity_id": "108",
+        "commodity": "Corriander seed"
+    },
+    {
+        "commodity_id": "15",
+        "commodity": "Cotton"
+    },
+    {
+        "commodity_id": "99",
+        "commodity": "Cotton Seed"
+    },
+    {
+        "commodity_id": "212",
+        "commodity": "Cow"
+    },
+    {
+        "commodity_id": "92",
+        "commodity": "Cowpea (Lobia/Karamani)"
+    },
+    {
+        "commodity_id": "89",
+        "commodity": "Cowpea(Veg)"
+    },
+    {
+        "commodity_id": "159",
+        "commodity": "Cucumbar(Kheera)"
+    },
+    {
+        "commodity_id": "42",
+        "commodity": "Cummin Seed(Jeera)"
+    },
+    {
+        "commodity_id": "352",
+        "commodity": "Custard Apple (Sharifa)"
+    },
+    {
+        "commodity_id": "382",
+        "commodity": "Daila(Chandni)"
+    },
+    {
+        "commodity_id": "91",
+        "commodity": "Dal (Avare)"
+    },
+    {
+        "commodity_id": "273",
+        "commodity": "Dalda"
+    },
+    {
+        "commodity_id": "410",
+        "commodity": "Delha"
+    },
+    {
+        "commodity_id": "69",
+        "commodity": "Dhaincha"
+    },
+    {
+        "commodity_id": "168",
+        "commodity": "Drumstick"
+    },
+    {
+        "commodity_id": "132",
+        "commodity": "Dry Chillies"
+    },
+    {
+        "commodity_id": "345",
+        "commodity": "Dry Fodder"
+    },
+    {
+        "commodity_id": "278",
+        "commodity": "Dry Grapes"
+    },
+    {
+        "commodity_id": "370",
+        "commodity": "Duck"
+    },
+    {
+        "commodity_id": "163",
+        "commodity": "Duster Beans"
+    },
+    {
+        "commodity_id": "367",
+        "commodity": "Egg"
+    },
+    {
+        "commodity_id": "361",
+        "commodity": "Egypian Clover(Barseem)"
+    },
+    {
+        "commodity_id": "296",
+        "commodity": "Elephant Yam (Suran)"
+    },
+    {
+        "commodity_id": "64",
+        "commodity": "Field Pea"
+    },
+    {
+        "commodity_id": "221",
+        "commodity": "Fig(Anjura/Anjeer)"
+    },
+    {
+        "commodity_id": "206",
+        "commodity": "Firewood"
+    },
+    {
+        "commodity_id": "366",
+        "commodity": "Fish"
+    },
+    {
+        "commodity_id": "365",
+        "commodity": "Flower Broom"
+    },
+    {
+        "commodity_id": "121",
+        "commodity": "Foxtail Millet(Navane)"
+    },
+    {
+        "commodity_id": "298",
+        "commodity": "French Beans (Frasbean)"
+    },
+    {
+        "commodity_id": "350",
+        "commodity": "Galgal(Lemon)"
+    },
+    {
+        "commodity_id": "25",
+        "commodity": "Garlic"
+    },
+    {
+        "commodity_id": "249",
+        "commodity": "Ghee"
+    },
+    {
+        "commodity_id": "276",
+        "commodity": "Gingelly Oil"
+    },
+    {
+        "commodity_id": "27",
+        "commodity": "Ginger(Dry)"
+    },
+    {
+        "commodity_id": "103",
+        "commodity": "Ginger(Green)"
+    },
+    {
+        "commodity_id": "364",
+        "commodity": "Gladiolus Bulb"
+    },
+    {
+        "commodity_id": "363",
+        "commodity": "Gladiolus Cut Flower"
+    },
+    {
+        "commodity_id": "219",
+        "commodity": "Goat"
+    },
+    {
+        "commodity_id": "353",
+        "commodity": "Goat Hair"
+    },
+    {
+        "commodity_id": "359",
+        "commodity": "Gram Raw(Chholia)"
+    },
+    {
+        "commodity_id": "294",
+        "commodity": "Gramflour"
+    },
+    {
+        "commodity_id": "22",
+        "commodity": "Grapes"
+    },
+    {
+        "commodity_id": "165",
+        "commodity": "Green Avare (W)"
+    },
+    {
+        "commodity_id": "87",
+        "commodity": "Green Chilli"
+    },
+    {
+        "commodity_id": "346",
+        "commodity": "Green Fodder"
+    },
+    {
+        "commodity_id": "9",
+        "commodity": "Green Gram (Moong)(Whole)"
+    },
+    {
+        "commodity_id": "265",
+        "commodity": "Green Gram Dal (Moong Dal)"
+    },
+    {
+        "commodity_id": "50",
+        "commodity": "Green Peas"
+    },
+    {
+        "commodity_id": "267",
+        "commodity": "Ground Nut Oil"
+    },
+    {
+        "commodity_id": "268",
+        "commodity": "Ground Nut Seed"
+    },
+    {
+        "commodity_id": "10",
+        "commodity": "Groundnut"
+    },
+    {
+        "commodity_id": "314",
+        "commodity": "Groundnut (Split)"
+    },
+    {
+        "commodity_id": "312",
+        "commodity": "Groundnut pods (raw)"
+    },
+    {
+        "commodity_id": "75",
+        "commodity": "Guar"
+    },
+    {
+        "commodity_id": "413",
+        "commodity": "Guar Seed(Cluster Beans Seed)"
+    },
+    {
+        "commodity_id": "185",
+        "commodity": "Guava"
+    },
+    {
+        "commodity_id": "74",
+        "commodity": "Gur(Jaggery)"
+    },
+    {
+        "commodity_id": "279",
+        "commodity": "Gurellu"
+    },
+    {
+        "commodity_id": "252",
+        "commodity": "Haralekai"
+    },
+    {
+        "commodity_id": "216",
+        "commodity": "He Buffalo"
+    },
+    {
+        "commodity_id": "369",
+        "commodity": "Hen"
+    },
+    {
+        "commodity_id": "125",
+        "commodity": "Hippe Seed"
+    },
+    {
+        "commodity_id": "236",
+        "commodity": "Honey"
+    },
+    {
+        "commodity_id": "124",
+        "commodity": "Honge seed"
+    },
+    {
+        "commodity_id": "119",
+        "commodity": "Hybrid Cumbu"
+    },
+    {
+        "commodity_id": "299",
+        "commodity": "Indian Beans (Seam)"
+    },
+    {
+        "commodity_id": "344",
+        "commodity": "Indian Colza(Sarson)"
+    },
+    {
+        "commodity_id": "256",
+        "commodity": "Isabgul (Psyllium)"
+    },
+    {
+        "commodity_id": "182",
+        "commodity": "Jack Fruit"
+    },
+    {
+        "commodity_id": "406",
+        "commodity": "Jaffri"
+    },
+    {
+        "commodity_id": "151",
+        "commodity": "Jaggery"
+    },
+    {
+        "commodity_id": "175",
+        "commodity": "Jamamkhan"
+    },
+    {
+        "commodity_id": "184",
+        "commodity": "Jamun(Narale Hannu)"
+    },
+    {
+        "commodity_id": "376",
+        "commodity": "Jarbara"
+    },
+    {
+        "commodity_id": "229",
+        "commodity": "Jasmine"
+    },
+    {
+        "commodity_id": "250",
+        "commodity": "Javi"
+    },
+    {
+        "commodity_id": "5",
+        "commodity": "Jowar(Sorghum)"
+    },
+    {
+        "commodity_id": "16",
+        "commodity": "Jute"
+    },
+    {
+        "commodity_id": "210",
+        "commodity": "Jute Seed"
+    },
+    {
+        "commodity_id": "362",
+        "commodity": "Kabuli Chana(Chickpeas-White)"
+    },
+    {
+        "commodity_id": "317",
+        "commodity": "Kacholam"
+    },
+    {
+        "commodity_id": "230",
+        "commodity": "Kakada"
+    },
+    {
+        "commodity_id": "233",
+        "commodity": "Kankambra"
+    },
+    {
+        "commodity_id": "115",
+        "commodity": "Karamani"
+    },
+    {
+        "commodity_id": "187",
+        "commodity": "Karbuja(Musk Melon)"
+    },
+    {
+        "commodity_id": "305",
+        "commodity": "Kartali (Kantola)"
+    },
+    {
+        "commodity_id": "61",
+        "commodity": "Kharif Mash"
+    },
+    {
+        "commodity_id": "372",
+        "commodity": "Khoya"
+    },
+    {
+        "commodity_id": "336",
+        "commodity": "Kinnow"
+    },
+    {
+        "commodity_id": "177",
+        "commodity": "Knool Khol"
+    },
+    {
+        "commodity_id": "117",
+        "commodity": "Kodo Millet(Varagu)"
+    },
+    {
+        "commodity_id": "243",
+        "commodity": "Kuchur"
+    },
+    {
+        "commodity_id": "114",
+        "commodity": "Kulthi(Horse Gram)"
+    },
+    {
+        "commodity_id": "155",
+        "commodity": "Ladies Finger"
+    },
+    {
+        "commodity_id": "96",
+        "commodity": "Lak(Teora)"
+    },
+    {
+        "commodity_id": "171",
+        "commodity": "Leafy Vegetable"
+    },
+    {
+        "commodity_id": "310",
+        "commodity": "Lemon"
+    },
+    {
+        "commodity_id": "63",
+        "commodity": "Lentil (Masur)(Whole)"
+    },
+    {
+        "commodity_id": "378",
+        "commodity": "Lilly"
+    },
+    {
+        "commodity_id": "180",
+        "commodity": "Lime"
+    },
+    {
+        "commodity_id": "67",
+        "commodity": "Linseed"
+    },
+    {
+        "commodity_id": "280",
+        "commodity": "Lint"
+    },
+    {
+        "commodity_id": "351",
+        "commodity": "Litchi"
+    },
+    {
+        "commodity_id": "302",
+        "commodity": "Little gourd (Kundru)"
+    },
+    {
+        "commodity_id": "304",
+        "commodity": "Long Melon(Kakri)"
+    },
+    {
+        "commodity_id": "403",
+        "commodity": "Lotus"
+    },
+    {
+        "commodity_id": "339",
+        "commodity": "Lotus Sticks"
+    },
+    {
+        "commodity_id": "337",
+        "commodity": "Lukad"
+    },
+    {
+        "commodity_id": "107",
+        "commodity": "Mace"
+    },
+    {
+        "commodity_id": "411",
+        "commodity": "Mahedi"
+    },
+    {
+        "commodity_id": "335",
+        "commodity": "Mahua"
+    },
+    {
+        "commodity_id": "371",
+        "commodity": "Mahua Seed(Hippe seed)"
+    },
+    {
+        "commodity_id": "288",
+        "commodity": "Maida Atta"
+    },
+    {
+        "commodity_id": "4",
+        "commodity": "Maize"
+    },
+    {
+        "commodity_id": "20",
+        "commodity": "Mango"
+    },
+    {
+        "commodity_id": "172",
+        "commodity": "Mango (Raw-Ripe)"
+    },
+    {
+        "commodity_id": "225",
+        "commodity": "Maragensu"
+    },
+    {
+        "commodity_id": "181",
+        "commodity": "Marasebu"
+    },
+    {
+        "commodity_id": "407",
+        "commodity": "Marget"
+    },
+    {
+        "commodity_id": "235",
+        "commodity": "Marigold(Calcutta)"
+    },
+    {
+        "commodity_id": "405",
+        "commodity": "Marigold(loose)"
+    },
+    {
+        "commodity_id": "60",
+        "commodity": "Mash"
+    },
+    {
+        "commodity_id": "340",
+        "commodity": "Mashrooms"
+    },
+    {
+        "commodity_id": "259",
+        "commodity": "Masur Dal"
+    },
+    {
+        "commodity_id": "93",
+        "commodity": "Mataki"
+    },
+    {
+        "commodity_id": "47",
+        "commodity": "Methi Seeds"
+    },
+    {
+        "commodity_id": "46",
+        "commodity": "Methi(Leaves)"
+    },
+    {
+        "commodity_id": "237",
+        "commodity": "Millets"
+    },
+    {
+        "commodity_id": "360",
+        "commodity": "Mint(Pudina)"
+    },
+    {
+        "commodity_id": "258",
+        "commodity": "Moath Dal"
+    },
+    {
+        "commodity_id": "95",
+        "commodity": "Moath Dal"
+    },
+    {
+        "commodity_id": "77",
+        "commodity": "Mousambi(Sweet Lime)"
+    },
+    {
+        "commodity_id": "12",
+        "commodity": "Mustard"
+    },
+    {
+        "commodity_id": "324",
+        "commodity": "Mustard Oil"
+    },
+    {
+        "commodity_id": "142",
+        "commodity": "Myrobolan(Harad)"
+    },
+    {
+        "commodity_id": "245",
+        "commodity": "Nargasi"
+    },
+    {
+        "commodity_id": "222",
+        "commodity": "Nearle Hannu"
+    },
+    {
+        "commodity_id": "126",
+        "commodity": "Neem Seed"
+    },
+    {
+        "commodity_id": "223",
+        "commodity": "Nelli Kai"
+    },
+    {
+        "commodity_id": "98",
+        "commodity": "Niger Seed (Ramtil)"
+    },
+    {
+        "commodity_id": "106",
+        "commodity": "Nutmeg"
+    },
+    {
+        "commodity_id": "23",
+        "commodity": "Onion"
+    },
+    {
+        "commodity_id": "358",
+        "commodity": "Onion Green"
+    },
+    {
+        "commodity_id": "18",
+        "commodity": "Orange"
+    },
+    {
+        "commodity_id": "381",
+        "commodity": "Orchid"
+    },
+    {
+        "commodity_id": "97",
+        "commodity": "Other Pulses"
+    },
+    {
+        "commodity_id": "213",
+        "commodity": "Ox"
+    },
+    {
+        "commodity_id": "414",
+        "commodity": "Paddy(Dhan)(Basmati)"
+    },
+    {
+        "commodity_id": "2",
+        "commodity": "Paddy(Dhan)(Common)"
+    },
+    {
+        "commodity_id": "72",
+        "commodity": "Papaya"
+    },
+    {
+        "commodity_id": "313",
+        "commodity": "Papaya (Raw)"
+    },
+    {
+        "commodity_id": "404",
+        "commodity": "Patti Calcutta"
+    },
+    {
+        "commodity_id": "331",
+        "commodity": "Peach"
+    },
+    {
+        "commodity_id": "330",
+        "commodity": "Pear(Marasebu)"
+    },
+    {
+        "commodity_id": "308",
+        "commodity": "Peas cod"
+    },
+    {
+        "commodity_id": "174",
+        "commodity": "Peas Wet"
+    },
+    {
+        "commodity_id": "347",
+        "commodity": "Peas(Dry)"
+    },
+    {
+        "commodity_id": "301",
+        "commodity": "Pegeon Pea (Arhar Fali)"
+    },
+    {
+        "commodity_id": "109",
+        "commodity": "Pepper garbled"
+    },
+    {
+        "commodity_id": "110",
+        "commodity": "Pepper ungarbled"
+    },
+    {
+        "commodity_id": "327",
+        "commodity": "Persimon(Japani Fal)"
+    },
+    {
+        "commodity_id": "220",
+        "commodity": "Pigs"
+    },
+    {
+        "commodity_id": "21",
+        "commodity": "Pineapple"
+    },
+    {
+        "commodity_id": "329",
+        "commodity": "Plum"
+    },
+    {
+        "commodity_id": "303",
+        "commodity": "Pointed gourd (Parval)"
+    },
+    {
+        "commodity_id": "240",
+        "commodity": "Polherb"
+    },
+    {
+        "commodity_id": "190",
+        "commodity": "Pomegranate"
+    },
+    {
+        "commodity_id": "24",
+        "commodity": "Potato"
+    },
+    {
+        "commodity_id": "84",
+        "commodity": "Pumpkin"
+    },
+    {
+        "commodity_id": "254",
+        "commodity": "Pundi"
+    },
+    {
+        "commodity_id": "128",
+        "commodity": "Pundi Seed"
+    },
+    {
+        "commodity_id": "161",
+        "commodity": "Raddish"
+    },
+    {
+        "commodity_id": "30",
+        "commodity": "Ragi (Finger Millet)"
+    },
+    {
+        "commodity_id": "409",
+        "commodity": "Raibel"
+    },
+    {
+        "commodity_id": "248",
+        "commodity": "Rajgir"
+    },
+    {
+        "commodity_id": "282",
+        "commodity": "Ram"
+    },
+    {
+        "commodity_id": "307",
+        "commodity": "Rat Tail Radish (Mogari)"
+    },
+    {
+        "commodity_id": "65",
+        "commodity": "Raya"
+    },
+    {
+        "commodity_id": "7",
+        "commodity": "Red Gram"
+    },
+    {
+        "commodity_id": "322",
+        "commodity": "Resinwood"
+    },
+    {
+        "commodity_id": "62",
+        "commodity": "Riccbcan"
+    },
+    {
+        "commodity_id": "3",
+        "commodity": "Rice"
+    },
+    {
+        "commodity_id": "160",
+        "commodity": "Ridgeguard(Tori)"
+    },
+    {
+        "commodity_id": "374",
+        "commodity": "Rose(Local)"
+    },
+    {
+        "commodity_id": "228",
+        "commodity": "Rose(Loose))"
+    },
+    {
+        "commodity_id": "373",
+        "commodity": "Rose(Tata)"
+    },
+    {
+        "commodity_id": "306",
+        "commodity": "Round gourd"
+    },
+    {
+        "commodity_id": "111",
+        "commodity": "Rubber"
+    },
+    {
+        "commodity_id": "291",
+        "commodity": "Sabu Dan"
+    },
+    {
+        "commodity_id": "59",
+        "commodity": "Safflower"
+    },
+    {
+        "commodity_id": "338",
+        "commodity": "Saffron"
+    },
+    {
+        "commodity_id": "271",
+        "commodity": "Sajje"
+    },
+    {
+        "commodity_id": "122",
+        "commodity": "Same/Savi"
+    },
+    {
+        "commodity_id": "247",
+        "commodity": "Sarasum"
+    },
+    {
+        "commodity_id": "277",
+        "commodity": "Season Leaves"
+    },
+    {
+        "commodity_id": "253",
+        "commodity": "Seegu"
+    },
+    {
+        "commodity_id": "176",
+        "commodity": "Seemebadnekai"
+    },
+    {
+        "commodity_id": "201",
+        "commodity": "Seetapal"
+    },
+    {
+        "commodity_id": "11",
+        "commodity": "Sesamum(Sesame,Gingelly,Til)"
+    },
+    {
+        "commodity_id": "217",
+        "commodity": "She Buffalo"
+    },
+    {
+        "commodity_id": "283",
+        "commodity": "She Goat"
+    },
+    {
+        "commodity_id": "218",
+        "commodity": "Sheep"
+    },
+    {
+        "commodity_id": "183",
+        "commodity": "Siddota"
+    },
+    {
+        "commodity_id": "226",
+        "commodity": "Skin And Hide"
+    },
+    {
+        "commodity_id": "156",
+        "commodity": "Snakeguard"
+    },
+    {
+        "commodity_id": "135",
+        "commodity": "Soanf"
+    },
+    {
+        "commodity_id": "207",
+        "commodity": "Soapnut(Antawala/Retha)"
+    },
+    {
+        "commodity_id": "286",
+        "commodity": "Soji"
+    },
+    {
+        "commodity_id": "246",
+        "commodity": "Sompu"
+    },
+    {
+        "commodity_id": "13",
+        "commodity": "Soyabean"
+    },
+    {
+        "commodity_id": "342",
+        "commodity": "Spinach"
+    },
+    {
+        "commodity_id": "311",
+        "commodity": "Sponge gourd"
+    },
+    {
+        "commodity_id": "332",
+        "commodity": "Squash(Chappal Kadoo)"
+    },
+    {
+        "commodity_id": "48",
+        "commodity": "Sugar"
+    },
+    {
+        "commodity_id": "150",
+        "commodity": "Sugarcane"
+    },
+    {
+        "commodity_id": "14",
+        "commodity": "Sunflower"
+    },
+    {
+        "commodity_id": "285",
+        "commodity": "Sunflower Seed"
+    },
+    {
+        "commodity_id": "139",
+        "commodity": "Sunhemp"
+    },
+    {
+        "commodity_id": "242",
+        "commodity": "Suram"
+    },
+    {
+        "commodity_id": "300",
+        "commodity": "Surat Beans (Papadi)"
+    },
+    {
+        "commodity_id": "255",
+        "commodity": "Suva (Dill Seed)"
+    },
+    {
+        "commodity_id": "178",
+        "commodity": "Suvarna Gadde"
+    },
+    {
+        "commodity_id": "152",
+        "commodity": "Sweet Potato"
+    },
+    {
+        "commodity_id": "173",
+        "commodity": "Sweet Pumpkin"
+    },
+    {
+        "commodity_id": "120",
+        "commodity": "T.V. Cumbu"
+    },
+    {
+        "commodity_id": "261",
+        "commodity": "Tamarind Fruit"
+    },
+    {
+        "commodity_id": "208",
+        "commodity": "Tamarind Seed"
+    },
+    {
+        "commodity_id": "100",
+        "commodity": "Tapioca"
+    },
+    {
+        "commodity_id": "76",
+        "commodity": "Taramira"
+    },
+    {
+        "commodity_id": "44",
+        "commodity": "Tea"
+    },
+    {
+        "commodity_id": "200",
+        "commodity": "Tender Coconut"
+    },
+    {
+        "commodity_id": "116",
+        "commodity": "Thinai (Italian Millet)"
+    },
+    {
+        "commodity_id": "170",
+        "commodity": "Thogrikai"
+    },
+    {
+        "commodity_id": "162",
+        "commodity": "Thondekai"
+    },
+    {
+        "commodity_id": "349",
+        "commodity": "Tinda"
+    },
+    {
+        "commodity_id": "141",
+        "commodity": "Tobacco"
+    },
+    {
+        "commodity_id": "78",
+        "commodity": "Tomato"
+    },
+    {
+        "commodity_id": "323",
+        "commodity": "Torchwood"
+    },
+    {
+        "commodity_id": "66",
+        "commodity": "Toria"
+    },
+    {
+        "commodity_id": "234",
+        "commodity": "Tube Flower"
+    },
+    {
+        "commodity_id": "401",
+        "commodity": "Tube Rose(Double)"
+    },
+    {
+        "commodity_id": "408",
+        "commodity": "Tube Rose(Loose)"
+    },
+    {
+        "commodity_id": "377",
+        "commodity": "Tube Rose(Single)"
+    },
+    {
+        "commodity_id": "39",
+        "commodity": "Turmeric"
+    },
+    {
+        "commodity_id": "309",
+        "commodity": "Turmeric (raw)"
+    },
+    {
+        "commodity_id": "341",
+        "commodity": "Turnip"
+    },
+    {
+        "commodity_id": "343",
+        "commodity": "Walnut"
+    },
+    {
+        "commodity_id": "73",
+        "commodity": "Water Melon"
+    },
+    {
+        "commodity_id": "1",
+        "commodity": "Wheat"
+    },
+    {
+        "commodity_id": "287",
+        "commodity": "Wheat Atta"
+    },
+    {
+        "commodity_id": "412",
+        "commodity": "White Peas"
+    },
+    {
+        "commodity_id": "158",
+        "commodity": "White Pumpkin"
+    },
+    {
+        "commodity_id": "203",
+        "commodity": "Wood"
+    },
+    {
+        "commodity_id": "348",
+        "commodity": "Wool"
+    },
+    {
+        "commodity_id": "244",
+        "commodity": "Yam"
+    },
+    {
+        "commodity_id": "297",
+        "commodity": "Yam (Ratalu)"
+    }
+]

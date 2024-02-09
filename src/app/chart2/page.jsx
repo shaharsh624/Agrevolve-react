@@ -18,7 +18,7 @@ const PriceChart = () => {
   // Commodities
   const fetchCommodities = async () => {
     try {
-      const response = await fetch("http://127.0.0.1:5000/get_commodities");
+      const response = await fetch("https://agrevolve-flask.vercel.app/get_commodities");
       const jsonData = await response.json();
       setCommodities(jsonData);
     } catch (error) {
@@ -33,7 +33,7 @@ const PriceChart = () => {
   // States
   const fetchStates = async () => {
     try {
-      const response = await fetch("http://127.0.0.1:5000/get_states");
+      const response = await fetch("https://agrevolve-flask.vercel.app/get_states");
       const jsonData = await response.json();
       setStates(jsonData);
     } catch (error) {
@@ -51,7 +51,7 @@ const PriceChart = () => {
   const fetchDistricts = async (selectedState) => {
     try {
       const response = await fetch(
-        `http://127.0.0.1:5000/get_districts/${selectedState}`
+        `https://agrevolve-flask.vercel.app/get_districts/${selectedState}`
       );
       const jsonData = await response.json();
       setDistricts(jsonData);
@@ -70,7 +70,7 @@ const PriceChart = () => {
   const fetchMarkets = async (selectedState, selectedDistrict) => {
     try {
       const response = await fetch(
-        `http://127.0.0.1:5000/get_markets/${selectedState}/${selectedDistrict}`
+        `https://agrevolve-flask.vercel.app/get_markets/${selectedState}/${selectedDistrict}`
       );
       const jsonData = await response.json();
       setMarkets(jsonData);
@@ -94,7 +94,7 @@ const PriceChart = () => {
   ) => {
     try {
       const response = await fetch(
-        `http://127.0.0.1:5000/getData/${selectedCommodity}/${selectedState}/${selectedDistrict}/${selectedMarket}`
+        `https://agrevolve-flask.vercel.app/getData/${selectedCommodity}/${selectedState}/${selectedDistrict}/${selectedMarket}`
       );
       const jsonData = await response.json();
       if (jsonData.length === 0) {

@@ -587,8 +587,8 @@
         "districts": [
             {
                 "district_id": "4",
-                "district": "Bangaigaon",
-                "markets": [{ "market_id": "1879", "market": "Bongiagaon" }]
+                "district": "Bongaigaon",
+                "markets": [{ "market_id": "1879", "market": "Bongaigaon" }]
             },
             {
                 "district_id": "5",
@@ -944,7 +944,7 @@
             },
             {
                 "district_id": "11",
-                "district": "Kaithar",
+                "district": "Katihar",
                 "markets": [
                     { "market_id": "10017", "market": "Barari" },
                     { "market_id": "1643", "market": "Barsoi" },
@@ -998,8 +998,8 @@
             },
             {
                 "district_id": "39",
-                "district": "Munghair",
-                "markets": [{ "market_id": "421", "market": "Munghair" }]
+                "district": "Munger",
+                "markets": [{ "market_id": "421", "market": "Munger" }]
             },
             {
                 "district_id": "13",
@@ -1681,7 +1681,7 @@
             },
             {
                 "district_id": "3",
-                "district": "Banaskanth",
+                "district": "Banaskantha",
                 "markets": [
                     {
                         "market_id": "3205",
@@ -2609,11 +2609,7 @@
                 "district": "Kangra (at Dharmashala)",
                 "markets": []
             },
-            {
-                "district_id": "9",
-                "district": "Kinnaur (at Kalpa)",
-                "markets": []
-            },
+            { "district_id": "9", "district": "Kinnaur", "markets": [] },
             {
                 "district_id": "2",
                 "district": "Kullu",
@@ -2949,7 +2945,7 @@
             },
             {
                 "district_id": "45",
-                "district": "Sahebgang",
+                "district": "Sahebganj",
                 "markets": [{ "market_id": "2057", "market": "Sahebganj" }]
             },
             {
@@ -3619,7 +3615,7 @@
             },
             {
                 "district_id": "11",
-                "district": "Thirssur",
+                "district": "Thrissur",
                 "markets": [
                     { "market_id": "10446", "market": "Alengad" },
                     { "market_id": "10444", "market": "Amballur" },
@@ -4209,7 +4205,7 @@
             },
             {
                 "district_id": "44",
-                "district": "Shehdol",
+                "district": "Shahdol",
                 "markets": [
                     { "market_id": "2727", "market": "Beohari" },
                     { "market_id": "3805", "market": "Budhar" },
@@ -5282,9 +5278,9 @@
             },
             {
                 "district_id": "2",
-                "district": "Lungli",
+                "district": "Lunglei ",
                 "markets": [
-                    { "market_id": "203", "market": "Lungli" },
+                    { "market_id": "203", "market": "Lunglei " },
                     {
                         "market_id": "204",
                         "market": "Super Market Lungli (Bara Bazar)"
@@ -5629,7 +5625,7 @@
             },
             {
                 "district_id": "20",
-                "district": "Mayurbhanja",
+                "district": "Mayurbhanj",
                 "markets": [
                     { "market_id": "618", "market": "Baripada" },
                     { "market_id": "1677", "market": "Betnoti" },
@@ -6322,7 +6318,7 @@
             },
             {
                 "district_id": "18",
-                "district": "Tarntaran",
+                "district": "Tarantaran",
                 "markets": [
                     { "market_id": "1571", "market": "Bhikhiwind" },
                     { "market_id": "4410", "market": "Bhikhiwind (Algo)" },
@@ -6703,7 +6699,7 @@
                     { "market_id": "2850", "market": "Sanchor" }
                 ]
             },
-            { "district_id": "34", "district": "Jhafarapatan", "markets": [] },
+            { "district_id": "34", "district": "Jhalarapatan", "markets": [] },
             {
                 "district_id": "26",
                 "district": "Jhalawar",
@@ -6725,7 +6721,7 @@
             },
             {
                 "district_id": "14",
-                "district": "Jhunjunu",
+                "district": "Jhunjhunu",
                 "markets": [
                     { "market_id": "8438", "market": "Bisau" },
                     { "market_id": "1558", "market": "Chirwa" },
@@ -6854,8 +6850,8 @@
             },
             {
                 "district_id": "28",
-                "district": "Rajasamand",
-                "markets": [{ "market_id": "1570", "market": "Rajasamand" }]
+                "district": "Rajsamand",
+                "markets": [{ "market_id": "1570", "market": "Rajsamand" }]
             },
             {
                 "district_id": "29",
@@ -7857,7 +7853,7 @@
             },
             {
                 "district_id": "26",
-                "district": "Thirunelveli",
+                "district": "Tirunelveli",
                 "markets": [
                     { "market_id": "3718", "market": "Ambasamudram" },
                     {
@@ -7882,7 +7878,7 @@
                     },
                     { "market_id": "3616", "market": "Sankarankovil" },
                     { "market_id": "3717", "market": "Thenkasi" },
-                    { "market_id": "1632", "market": "Tirunelvali" }
+                    { "market_id": "1632", "market": "Tirunelveli" }
                 ]
             },
             {
@@ -9354,10 +9350,10 @@
             },
             {
                 "district_id": "7",
-                "district": "Dehradoon",
+                "district": "Dehradun",
                 "markets": [
                     { "market_id": "1840", "market": "Chakrata" },
-                    { "market_id": "320", "market": "Dehradoon" },
+                    { "market_id": "320", "market": "Dehradun" },
                     { "market_id": "694", "market": "Rishikesh" },
                     { "market_id": "695", "market": "Vikasnagar" }
                 ]
@@ -9384,7 +9380,7 @@
             },
             {
                 "district_id": "23",
-                "district": "Nanital",
+                "district": "Nainital",
                 "markets": [
                     {
                         "market_id": "4327",
